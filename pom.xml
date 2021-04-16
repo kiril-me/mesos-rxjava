@@ -78,7 +78,7 @@
         <version.rxJava>1.1.8</version.rxJava>
         <version.rxNetty>0.5.1</version.rxNetty>
         <version.protobuf>2.6.1</version.protobuf>
-        <version.netty>4.1.4.Final</version.netty>
+        <version.netty>4.1.63.Final</version.netty>
         <version.mesos>1.0.0</version.mesos>
 
         <!-- By default we skip deploy of all modules. Any module that should be deployed is explicitly enabled -->
