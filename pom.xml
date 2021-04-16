@@ -71,7 +71,7 @@
         <version.assertj-core>3.5.2</version.assertj-core>
         <version.guava>19.0</version.guava>
         <version.jetbrains.annotations>15.0</version.jetbrains.annotations>
-        <version.junit>4.12</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.logback-classic>1.1.7</version.logback-classic>
         <version.slf4j>1.7.21</version.slf4j>
 
